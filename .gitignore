@@ -1,0 +1,8 @@
+node_modules
+tmp/test/**
+tmp/uploads/**
+.env
+.vscode/
+yarn.lock
+yarn-error.log
+postgres-data
